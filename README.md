@@ -1,5 +1,5 @@
 # Customer-Segmentation
-<p>A customer segmentation data science project involves using statistical and machine learning techniques to group customers based on similar characteristics and behaviors. The primary goal is to understand the diverse needs and preferences of different customer segments, enabling businesses to tailor their marketing strategies, product offerings, and customer experiences more effectively.</p>
+<p>A customer segmentation data science project involving statistical and machine learning techniques to group customers based on similar characteristics and behaviors. The primary goal is to understand the diverse needs and preferences of different customer segments, enabling businesses to tailor their marketing strategies, product offerings, and customer experiences more effectively.</p>
 <p>Output</p>
 <img src="https://github.com/zankhana46/Customer-Segmentation/assets/86908588/389c17cc-e367-4127-8f27-b01bca73cfa3">
 <img src="https://github.com/zankhana46/Customer-Segmentation/assets/86908588/0d02b620-49a1-48c9-bed7-c74dea56a874">
